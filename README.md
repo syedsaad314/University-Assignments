@@ -1,4 +1,4 @@
-# **University Assignments**
+# **🎓University Assignments**
 
 A structured archive of my academic journey in code.
 
